@@ -1,7 +1,8 @@
 # Sistema de ventas e inventario
 
 Proyecto de Programación V. Este repositorio contiene un avance inicial, no la entrega final.
-
+integrantes: Jose Araya, Jose Chacón 
+https://github.com/12Araya/ProyectoFinalPrograV
 ## Incluido en este avance
 
 - Esquema MySQL inicial para usuarios, categorías y productos.
@@ -25,3 +26,4 @@ La creación de la cuenta inicial y el panel posterior al inicio de sesión aún
 - CRUD de productos y categorías.
 - Ventas, actualización de existencias y reportes.
 - Diagrama entidad-relación, capturas y documentación de pruebas.
+
